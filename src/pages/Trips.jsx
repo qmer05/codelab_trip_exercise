@@ -1,5 +1,5 @@
 import ListViewerTrips from "../listviewerTrips/ListViewerTrips";
-import Filter from "../filter/filter";
+import Filter from "../filter/Filter";
 
 function Trips({trips, setFilteredTrips, filteredTrips}) {
   return (
